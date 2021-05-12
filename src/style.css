@@ -1,1 +1,21 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background: green;
+  font-family: Righteous;
+  font-size: 5rem;
+}
+
+.card {
+  width: 18rem;
+  height: 28rem;
+  background: cornsilk;
+  margin: 5rem auto;
+  box-shadow: 5px 6px 3px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 7px;
+}
+
+.number {
+  font-size: 6rem;
+  /* border: 1px black solid; */
+}
